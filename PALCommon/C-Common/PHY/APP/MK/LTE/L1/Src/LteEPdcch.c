@@ -1,0 +1,20 @@
+Line 347: [EPDCCH] CCH_GetHASH_EPDCCH(0x%x)
+Line 803: (F) Invalid cc_idx(%d) of EPDCCH_CalStartECCE
+Line 906: (F)EPDCCH_GetQclIdx: CC%d, No matched QCL config ID.
+Line 953: [EPDCCH] start_symbol(%d)
+Line 1050: [EPDCCH] number of valid REs in a PRB is (%d), m_EPDCCH_RE_Num(%d), cp_type/n_antP(%04d), mbsfn_sf(%d), m_CRS_Num(%d), m_DMRS_Num(%d), start_symbol/hw_cfi(%04d)
+Line 1129: [EPDCCH] CASE[0/1] : (%d/%d)
+Line 1348: [EPDCCH] CC(%d) Detected Set(%d) Detected Agg(%d) No. detected PRB(%d) DetectedPRBIdx(%d-%d-%d)
+Line 1685: [EPDCCH] scrseq_id.reg(0x%x)
+Line 1710: IPC: EPDCCH Config for CC%d
+Line 1719: valid(%d), subframePatternConfig_setup(%d), start_symbol_setup(%d), StartSymbol_r11(%d), epdcch_set_config_setup(%d), NumOfePdcchconfig(%d), PatternBitMap[4](%d)
+Line 1723: valid(%d), BitSize(%d), pattern_type(%d), PatternBitMap[0](%d), PatternBitMap[1](%d), PatternBitMap[2](%d), PatternBitMap[3](%d)
+Line 1728: [0]setConfigId(%d), transmissionType(%d), numberPRB_Pairs(%d), resourceBlockAssignment[0](0x%x), resourceBlockAssignment[1](0x%x), resourceBlockAssignment[2](0x%x), CalcResourceBlock[0](%d)
+Line 1737: CalcResourceBlock[1](%d), CalcResourceBlock[2](%d), CalcResourceBlock[3](%d), CalcResourceBlock[4](%d), CalcResourceBlock[5](%d), CalcResourceBlock[6](%d), CalcResourceBlock[7](%d)
+Line 1746: dmrs_ScramblingSeqInt(%d), pucch_ResourceStartOffset(%d), pdsch_re_mapping_qcl_config_id_setup(%d), pdsch_RE_mappingQCL_configId(%d)
+Line 1752: [1]setConfigId(%d), transmissionType(%d), numberPRB_Pairs(%d), resourceBlockAssignment[0](%d), resourceBlockAssignment[1](%d), resourceBlockAssignment[2](%d), CalcResourceBlock[0](%d)
+Line 1761: CalcResourceBlock[1](%d), CalcResourceBlock[2](%d), CalcResourceBlock[3](%d), CalcResourceBlock[4](%d), CalcResourceBlock[5](%d), CalcResourceBlock[6](%d), CalcResourceBlock[7](%d)
+Line 1770: dmrs_ScramblingSeqInt(%d), pucch_ResourceStartOffset(%d), pdsch_re_mapping_qcl_config_id_setup(%d), pdsch_RE_mappingQCL_configId(%d)
+Line 1891: [EPDCCH] Release CC(%d)
+Line 1928: [EPDCCH] atti(%d), bitsize(%d), tti_pos(%d), bitmap_word(%d), bitmap_bit(%d), pattern_bitmap[bitmap_word](0x%x), epdcch_exist(%d)
+Line 2078: [EPDCCH] tti_bitmap(0x%x): tti_pos(%d), bitsize(%d), bitWord(%d)

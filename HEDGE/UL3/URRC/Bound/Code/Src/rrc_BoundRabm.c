@@ -1,0 +1,19 @@
+Line 303: RABM TID TABLE
+Line 321: ERROR: rrc_BoundURabm_URabmToUrrcMsg MapExtMsgIdToIntMsgId failed for MsgId %d
+Line 376: BoundRabm - All Tids removed by client %s
+Line 378: RABM TID TABLE
+Line 384: BoundRabm - Unable to remove all Tids by ClientInstId = %d
+Line 411: Tx-RABMAS_RAB_INITIALISATION_IND, %d
+Line 415: Tx-RABMAS_RAB_ESTABLISH_IND, %d
+Line 419: Tx-RABMAS_RAB_ACTIVATE_IND, %d
+Line 423: Tx-RABMAS_RAB_RELEASE_IND, %d
+Line 427: Tx-RABMAS_RAB_MODIFY_IND, %d
+Line 431: Tx-RABMAS_RADIO_BEARER_RELEASE_IND, %d
+Line 435: Tx-RABMAS_RADIO_BEARER_ADDITION_IND, %d
+Line 439: Tx-RABMAS_SUSPEND_IND, %d
+Line 443: Tx-RABMAS_UMTSRATMODE_IND, %d
+Line 447: Tx-RABMAS_NONUMTSRATMODE_IND, %d
+Line 451: Tx-RABMAS-MESSAGE_UNKNOWN(%X), %d
+Line 486: Rx-RABMAS-MESSAGE_UNKNOWN(%X), %d
+Line 491: RX -Msg: [%s], TransactionId: [%d]
+Line 533: RABM TID TABLE

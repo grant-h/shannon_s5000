@@ -1,0 +1,15 @@
+Line 111: Uhal Stops PCCPCH Phych %d (type=%d, RlsStr=%x)
+Line 114: Uhal Stops SCCPCH Phych %d (type=%d, RlsStr=%x)
+Line 117: Uhal Stops DL DPCH Phych %d (type=%d, RlsStr=%x)
+Line 120: Uhal Stops PICH Phych %d (type=%d, RlsStr=%x)
+Line 123: Uhal Stops AICH Phych %d (type=%d, RlsStr=%x)
+Line 126: Uhal Stops MICH Phych %d (type=%d, RlsStr=%x)
+Line 129: Uhal Stops SCCPCH_MBMS_RL0 Phych %d (type=%d, RlsStr=%x)
+Line 132: Uhal Stops SCCPCH_MBMS_RL1 Phych %d (type=%d, RlsStr=%x)
+Line 135: Uhal Stops SCCPCH_MBMS_RL2 Phych %d (type=%d, RlsStr=%x)
+Line 138: Uhal Stops SCCPCH(0) for CBS Phych %d (type=%d, RlsStr=%x)
+Line 141: Uhal Stops SCCPCH(1) for CBS Phych %d (type=%d, RlsStr=%x)
+Line 144: Uhal Stops SCCPCH(2) for CBS Phych %d (type=%d, RlsStr=%x)
+Line 147: Uhal Stops ??? Phych %d (type=%d, RlsStr=%x)
+Line 299: activeStackId %d PhychType = %d
+Line 332: activeStackId %d fn_chm_en = %d

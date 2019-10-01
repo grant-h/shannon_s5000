@@ -1,0 +1,5 @@
+Line 108: [assign_flag[0] = %d] [assign_flag[1] = %d] [assign_flag[2] = %d] [assign_flag[3] = %d] [assign_flag[4] = %d] [assign_flag[5] = %d] [assign_flag[6] = %d]
+Line 110: [meas_assign_flag[0] = %d] [meas_assign_flag[1] = %d] [meas_assign_flag[2] = %d] [meas_assign_flag[3] = %d] [meas_assign_flag[4] = %d] [meas_assign_flag[5] = %d] [meas_assign_flag[6] = %d]
+Line 151: [hs_assign_flag[0] = %d] [hs_assign_flag[1] = %d] [hs_assign_flag[2] = %d] [hs_assign_flag[3] = %d] [hs_assign_flag[4] = %d] [hs_assign_flag[5] = %d] [hs_assign_flag[6] = %d]
+Line 153: [cid_assign_flag[0] = %d] [cid_assign_flag[1] = %d] [cid_assign_flag[2] = %d] [cid_assign_flag[3] = %d] [cid_assign_flag[4] = %d] [cid_assign_flag[5] = %d] [cid_assign_flag[6] = %d]
+Line 189: [cnt_TS %d] [assign_flag = %d] [hs_assign_flag = %d] [meas_assign_flag = %d] [cid_assign_flag = %d]

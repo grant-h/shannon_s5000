@@ -1,0 +1,7 @@
+Line 170: SHM_SLOT_INFO [op_mode %d] [Target_TS %d] [mid_id[0] %d] [mid_id[1] %d] [mid_id[2] %d] [kcell %d] [sf %d]
+Line 173: SHM_SLOT_INFO [mid_mode %d] [shift %d] [tstd 0x%08X] [sctd 0x%08X] [hs_scch %d] [type[0] %08X] [type[1] %08X]
+Line 180: CLP COMMON IPC [Slot String 0x%X] [CE_TICK_Parsing_flag 0x%X]
+Line 194: CLP MODE IPC [RX_DIV_FLAG_SHM %d]
+Line 215: CLP MODE IPC is wrong!!! [EQUIPMENT_MODE_FLAG %d]
+Line 220: CLP MODE IPC [EQUIPMENT_MODE_FLAG 0x%X [0x0: Field, 0x1: Lab mode (using dynamic_duplex_mode)]
+Line 235: DSCH Control IPC [DSCH_Update_flag %d]

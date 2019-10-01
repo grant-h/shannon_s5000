@@ -1,0 +1,5 @@
+Line 181: [SYSTEMTIME] RTG_SNAP_CFG(0x%x), RTG_LATCH_CMD(0x%x), RTG_LOAD(0x%x), RTG_LOAD_CFG(0x%x), RTG0_TimeSnap(0x%x), RTG0_GENERAL_SNAP(0x%x)
+Line 191: [SYSTEMTIME] RTG_SNAP_CFG(0x%x), RTG_LATCH_CMD(0x%x), RTG_LOAD(0x%x), RTG_LOAD_CFG(0x%x), RTG0_LATCHED_COUNTER(0x%x), RTG0_LATCHED_GENERAL_COUNTER(0x%x)
+Line 213: [SYSTEMTIME] Get DlUl Rtg : dlul rtg (0x%x), dl rtg (0x%x), ul rtg (0x%x)
+Line 343: [SYSTEMTIME4G] Dump :: [%s] Addr[0x%08x], Data[0x%08x])
+Line 383: [SYSTEMTIME] Rtg value set error!! dl_ul_timing(0x%x), ul/dl timing(0x%x, 0x%x)

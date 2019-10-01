@@ -1,0 +1,6 @@
+Line 168: [rrc_IECellMeasuredResults_SetCellSyncInfo] Off(%d) Tm(%d) count-c(%d) read indicator(%d)
+Line 291: [rrc_IETCellMeasuredResults_SetProposedTgsn]  Proposed TGSN Value = %d... 
+Line 321: [rrc_IETCellMeasuredResults_SetPccpchRscp] ERROR:Wrong Meas Result We are Sending..!!!
+Line 349: [rrc_IETCellMeasuredResults_SetTddPathloss] ERROR:  ThePathloss = %d 
+Line 396: [rrc_IETCellMeasuredResults_SetTimeSlotList] ERROR:tempPtr = NULL Memory Allocation fail...
+Line 401: [rrc_IETCellMeasuredResults_SetTimeSlotList] ERROR:  timeSlotISCPListSize = %d 

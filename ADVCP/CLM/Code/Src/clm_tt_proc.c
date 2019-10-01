@@ -1,0 +1,14 @@
+Line 172: [CLM_TT] EVT_TERMINATE, state=%d
+Line 195: [CLM_TT] EVT_START, state=%d
+Line 212: [CLM_TT] EVT_POLICY_REV01_UPDATE, state=%d
+Line 229: [CLM_TT] EVT_SW_VERSION_REQ, state=%d
+Line 254: [CLM_TT] EVT_POSITION_REQ, state=%d
+Line 277: [CLM_TT] EVT_PATH_HISTORY_REQ, state=%d
+Line 295: [CLM_TT] EVT_POSITION_REPORT, state=%d
+Line 314: [CLM_TT] EVT_TRI_ABSOLUTE_POSITION, state=%d
+Line 336: [CLM_TT] EVT_DB_UPDATE, state=%d
+Line 360: [CLM_TT] EVT_DB_UPDATE_FAIL, state=%d
+Line 388: [CLM_TT] EVT_TACENB_DB_UPDATE, state=%d
+Line 404: [CLM_TT] EVT_GPS_ABSOLUTE_POSITION, state=%d
+Line 424: [CLM_TT] EVT_GF, state=%d
+Line 442: [CLM_TT] EVT_GF_PATH_HISTORY, state=%d

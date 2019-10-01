@@ -1,0 +1,13 @@
+Line 66: AWD_PWR: [SbfCnt=%4d] w00-w03 [%d][%d][%d][%d]
+Line 67: AWD_PWR: [SbfCnt=%4d] w04-w07 [%d][%d][%d][%d]
+Line 68: ACD_PWR: [SbfCnt=%4d] c00-c05 [%08X][%08X][%08X][%08X][%08X][%08X]
+Line 69: ACD_PWR: [SbfCnt=%4d] c06-c11 [%08X][%08X][%08X][%08X][%08X][%08X]
+Line 70: ACD_PWR: [SbfCnt=%4d] c12-c15 [%08X][%08X][%08X][%08X][SlotIdx=%d]
+Line 119: tCE_tJD: DSP_ACD [SbfCnt=%4d] [SlotIdx=%d] [SF1_cell0_bitmap=0x%x] [SF1_cell1_bitmap=0x%x] [SF1_cell2_bitmap=0x%x]
+Line 142: tCE_tJD: DSP_ACD [SbfCnt=%4d] [SlotIdx=%d] [SF=%d] [midamble_mode=%d] [acd_bitmap_cell0_sorted=0x%x]
+Line 162: tCE_tJD: DSP_ACD [SbfCnt=%4d] [SlotIdx=%d] [SF=%d] [midamble_mode=%d] [acd_bitmap_cell0=0x%x] [acd_bitmap_cell0_masked=0x%x]
+Line 177: tCE_tJD: DSP_ACD [SbfCnt=%4d] [SlotIdx=%d] [SF=%d] [midamble_mode=%d] [acd_bitmap_cell0=0x%x]
+Line 191: tCE_tJD: DSP_ACD ERROR [SbfCnt=%4d] [SlotIdx=%d] [SF=%d] [midamble_mode=%d] 
+Line 245: tCE_tJD: DSP_AWD [SbfCnt=%d] [SlotIdx= %d] [mc_mode= %d] [awd_cell0= 0x%x] [awd_cell1= 0x%x] [awd_cell2= 0x%x] [awd_HL= 0x%x] 
+Line 581: tCE_tJD: [SbfCnt=%4d] DSP_ACD [slot_idx=%d] [sf1_trueflag=%d] [codePwrAvg1st=%d] [codePwrAvg14=%d] [codePwrAll=%d] [codePwrNCell=%d]
+Line 707: tCE_tJD: [SbfCnt=%4d] DSP_ACD [slot_idx=%d] [SF1 Cell0 Pwr=%d] [SF1 Cell1 Pwr=%d] [SF1 Cell2 Pwr=%d] [Cell1 1st Pwr 0x%x

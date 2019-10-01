@@ -1,0 +1,9 @@
+Line 62: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+Line 62: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+Line 62: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314 and T315 both Running
+Line 69: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314  Running
+Line 69: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314  Running
+Line 69: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T314  Running
+Line 77: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315  Running
+Line 77: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315  Running
+Line 77: rrc_ResourceMgr_GetPreSuspenedTimerStatus : Timer_Status = T315  Running

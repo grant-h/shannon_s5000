@@ -1,0 +1,48 @@
+Line 3942: [MTM] Receive LTE_SYNC_RESULT_REQ_RSP Msg [%d]
+Line 3947: [MTM] Receive LTE_MODE_CHANGE_TEST_NTF Msg [%d]
+Line 3952: [MTM] Receive LTE_MODE_CHANGE_NORMAL_NTF Msg [%d]
+Line 3957: [MTM] Receive LTE_REGISTRY_SET_FOR_MTM_NTF Msg [%d]
+Line 3962: [MTM] Receive LTE_REGISTRY_SET_FOR_NORMAL_NTF Msg [%d]
+Line 3967: [MTM] Receive LTE_RF_BAND_SET_NTF Msg [%d]
+Line 3972: [MTM] Receive LTE_TARGET_MODE_READ_RSP Msg [%d]
+Line 3978: [MTM] Receive LTE_RX1_RSRP_OFFSET_READ_RSP Msg [%d]
+Line 3984: [MTM] Receive LTE_RX2_RSRP_OFFSET_READ_RSP Msg [%d]
+Line 3990: [MTM] Receive LTE_FREQUENCY_READ_RSP Msg [%d MHz]
+Line 3996: [MTM] Receive LTE_FACTORY_RESET_NTF Msg [%d]
+Line 4001: [MTM] Receive LTE_ALL_CAL_VALUE_RESET_NTF Msg [%d]
+Line 4007: [MTM] Receive LTE_FER_MEASURE_RSP Msg [%d.%d %%]
+Line 4013: [MTM] Receive LTE_RX_DCOFFSET_CAL_NTF Msg [%d]
+Line 4018: [MTM] Receive LTE_RX_IQ_IMBALANCE_CAL_NTF Msg [%d]
+Line 4023: [MTM] Receive LTE_TX_DCOFFSET_CAL_NTF Msg [%d]
+Line 4028: [MTM] Receive LTE_TX_DCOFFSET_MODEM_CAL_NTF Msg [%d]
+Line 4033: [MTM] Receive LTE_TX_IQ_IMBALANCE_CAL_NTF Msg [%d]
+Line 4038: [MTM] Receive LTE_TX_POWER_CAL_POINT_SET_NTF Msg [%d]
+Line 4044: [MTM] Receive LTE_TEMP_GPADC_READ_RSP Msg [%d]
+Line 4049: [MTM] Receive LTE_BUILD_GAINTABLE_NTF Msg [%d]
+Line 4055: [MTM] Receive LTE_RX1_RX2_PATH_RSRP_RSP Msg [%d dBm, %d dBm]
+Line 4062: [MTM] Receive LTE_RX1_RX2_RSRP_FLOAT_VAL_RSP Msg [%d.%d dBm, %d.%d dBm]
+Line 4069: [MTM] Receive LTE_RX1_RX2_PATH_CINR_RSP Msg [%d dB, %d dB]
+Line 4075: [MTM] Receive LTE_RX_DCOFFSET_CAL_DATA_READ_RSP Msg
+Line 4115: [MTM] Not supported RFIC (%d)
+Line 4122: [MTM] Receive LTE_RX_IQ_IMBALANCE_CAL_DATA_READ_RSP Msg [%d, %d]
+Line 4128: [MTM] Receive LTE_TX_DCOFFSET_CAL_DATA_READ_RSP Msg
+Line 4156: [MTM] Not supported RFIC (%d)
+Line 4181: [MTM] Not supported RFIC (%d)
+Line 4188: [MTM] Receive LTE_TX_IQ_IMBALANCE_CAL_DATA_READ_RSP Msg [Ci, Cq] [0x%X, 0x%X]
+Line 4193: [MTM] Receive LTE_TX_CHNL_SEND_RSP Msg [%d]
+Line 4198: [MTM] Receive LTE_CAL_STATUS_READ_RSP Msg [%d]
+Line 4203: [MTM] Receive LTE_CAL_DATE_READ_RSP Msg 
+Line 4209: [MTM] Receive LTE_TX_DCOFFSET_CAL_REPEAT_RSP Msg [%d]
+Line 4216: [MTM] Receive LTE_TX_CAL_POWER_READ_RSP  Msg [%d]
+Line 4223: [MTM] Receive LTE_RX_IQ_IMBALANCE_CAL_INDEX_SET_RSP Msg [%d, %d]
+Line 4229: [MTM] Receive LTE_RX_IQ_IMBALANCE_CAL_VAL_SET_NTF  Msg [%d]
+Line 4235: [MTM] Receive LTE_RX_VCO_CAL_NTF	Msg [%d]
+Line 4241: [MTM] Receive LTE_TX_VCO_CAL_NTF	Msg [%d]
+Line 4248: [MTM] Receive LTE_GET_CURRENT_GPADC_RSP  Msg [%d]
+Line 4254: [MTM] Receive LTE_HW_REV_READ_RSP  Msg
+Line 4260: [MTM] Receive LTE_TX_POWER_SET_NTF Msg [%d]
+Line 4267: [MTM] Receive LTE_MTM_REG_READ_RSP Msg [0x%x]
+Line 4273: [MTM] Receive LTE_RF_BAND_SWITCH_NTF Msg [%d]
+Line 4280: [MTM] Receive LTE_TX_GAIN_RSP Msg [%x]
+Line 4287: [MTM] Receive LTE_SPI_READ_RSP Msg [%x]
+Line 4293: [MTM] Receive Unknown Msg

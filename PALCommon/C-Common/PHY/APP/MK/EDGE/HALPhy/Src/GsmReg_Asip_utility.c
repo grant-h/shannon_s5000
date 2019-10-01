@@ -1,0 +1,2 @@
+Line 394: [ASIP_OUT_SD0] 0x%08X
+Line 405: [ASIP_OUT_SD1] 0x%08X

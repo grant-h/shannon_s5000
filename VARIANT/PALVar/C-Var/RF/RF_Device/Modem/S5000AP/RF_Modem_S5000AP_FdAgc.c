@@ -1,0 +1,12 @@
+Line 120: [FDAGC] fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 130: [FDAGC] Set_FDAGC_ERROR (0x%x), fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 162: [FDAGC] fdagcpath0cfg (0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x)
+Line 201: [FDAGC] Dump :: [%s] Addr[0x%08x], Data[0x%08x])
+Line 293: [MEASPWR][FDAGC] fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 305: [MEASPWR][FDAGC] Set_FDAGC_ERROR (0x%x), fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 338: [MEASPWR][FDAGC] fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 366: [MEASPWR][FDAGC] fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 395: [MEASPWR][FDAGC] pwr_u (%d), pwr_l (%d), ch_pwr (%d), aclr_l (%d), aclr_u (%d)
+Line 408: [MEASPWR][FDAGC] fdagcpath0cfg (0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x)
+Line 429: [MEASPWR][FDAGC] fdagcpath0cfg(0xCF800004 : 0x%x), fdagcpath0sympwrcfg(0xCF800018 : 0x%x), bnd_m(0xCF80002C : 0x%x), bnd_l(0xCF800030 : 0x%x), bnd_h(0xCF800054 : 0x%x)
+Line 455: [MEASPWR][FDAGC] Dump :: Addr[0x%08x], Data[0x%08x] %s

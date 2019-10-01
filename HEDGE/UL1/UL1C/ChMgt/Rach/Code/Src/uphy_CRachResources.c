@@ -1,0 +1,33 @@
+Line 295: Message received after Non UMTS rat mode req, so ignored transceiver = %d stackId = %d
+Line 295: Message received after Non UMTS rat mode req, so ignored transceiver = %d stackId = %d
+Line 347: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->primaryCpichTxPower out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 352: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->constantValue out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 357: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->ulInterference out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 364: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->prachPowerOffset.powerRampStep out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 369: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->prachPowerOffset.maxPreambleRetransission out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 376: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->prachInfo.minPrachSpreadingFactor out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 381: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->prachInfo.preambleScrCodeNr out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 386: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->prachInfo.puncturingLimit out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 391: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->numOfAsc out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 405: Warning: RachResourcesConfigMsg accessServiceClassArray[n].availableSignatureStartIndex out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 410: Warning: RachResourcesConfigMsg accessServiceClassArray[n].availableSignatureEndIndex out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 419: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->numOfUlCtfc out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 429: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->ulPowerOffsetInfoArray[n].betaC out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 434: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->ulPowerOffsetInfoArray[n].betaD out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 439: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->ulPowerOffsetInfoArray[n].powerOffsetPpm out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 448: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.trChId out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 453: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.trChType out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 460: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.semiStaticInfo.tti out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 465: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.semiStaticInfo.channelCoding out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 470: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.semiStaticInfo.rateMatchingArgument out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 475: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.semiStaticInfo.crcSize out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 480: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->rachInfo.semiStaticInfo.codingRate out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 489: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->primaryScrCode out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 496: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->aichInfo.chanCode out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 501: Warning: RachResourcesConfigMsg rachResourcesConfigReqPayload->aichInfo.aichPowerOffset out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 530: Warning: RachDataMsg dataPayload->TrChInfoReq.Tfi out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 535: Warning: RachDataMsg dataPayload->Asc out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 540: Warning: RachDataMsg dataPayload->TrChInfoReq.NoTbs out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d
+Line 546: Warning : RachDataMsg dataPayload->TrChInfoReq.Data is NULL
+Line 546: Warning : RachDataMsg dataPayload->TrChInfoReq.Data is NULL
+Line 575: Warning: RachModifyMsg rachResourcesModifyReqMsg->payload.UlInterference out of bounds. Value %d, Bounds %d and %d. File ../../../HEDGE/UL1/UL1C/ChMgt/Rach/Code/Src/uphy_CRachResources.c Line %d

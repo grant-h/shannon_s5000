@@ -1,0 +1,14 @@
+Line 181: [ctmSyncDetect] [Error]demodulatedBits_p: Out of Bounds
+Line 206: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 221: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 247: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 264: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 285: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 308: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 325: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 346: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 370: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 381: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 396: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 411: [ctmSyncDetect] [Error]rxy_preamble: Out of Bounds
+Line 526: [ctmSyncDetect] ctm Rx cntSymbolsSinceEndOfBurst: %d

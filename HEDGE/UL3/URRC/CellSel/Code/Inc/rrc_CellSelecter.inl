@@ -1,0 +1,12 @@
+Line 211: [DS_CELL_SEL] ScanOperation : PAUSE
+Line 211: [DS_CELL_SEL] ScanOperation : PAUSE
+Line 211: [DS_CELL_SEL] ScanOperation : PAUSE
+Line 211: [DS_CELL_SEL] ScanOperation : PAUSE
+Line 213: [DS_CELL_SEL] ScanOperation : ABORT
+Line 213: [DS_CELL_SEL] ScanOperation : ABORT
+Line 213: [DS_CELL_SEL] ScanOperation : ABORT
+Line 213: [DS_CELL_SEL] ScanOperation : ABORT
+Line 215: [DS_CELL_SEL] ScanOperation : NAS_ABORT_SCAN
+Line 215: [DS_CELL_SEL] ScanOperation : NAS_ABORT_SCAN
+Line 215: [DS_CELL_SEL] ScanOperation : NAS_ABORT_SCAN
+Line 215: [DS_CELL_SEL] ScanOperation : NAS_ABORT_SCAN

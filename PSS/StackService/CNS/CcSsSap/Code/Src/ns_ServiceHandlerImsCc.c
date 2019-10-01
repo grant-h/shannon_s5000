@@ -1,0 +1,57 @@
+Line 47: Error: Null Pointer
+Line 64: Error: Null Pointer
+Line 83: Error: Null Pointer
+Line 103: Error: Null Pointer
+Line 123: Error: Null Pointer
+Line 142: Error: Null Pointer
+Line 163: Error: Null Pointer
+Line 188: Error: Null Pointer
+Line 206: Error: Null Pointer
+Line 226: Error: Null Pointer
+Line 269: Error: Null Pointer
+Line 328: Error: Null Pointer
+Line 347: Error: Null Pointer
+Line 366: Error: Null Pointer
+Line 390: Error: Null Pointer
+Line 424: Error: Null Pointer
+Line 449: Error: Null Pointer
+Line 486: Error: Null Pointer
+Line 505: Error: Null Pointer
+Line 525: Error: Null Pointer
+Line 545: Error: Null Pointer
+Line 565: Error: Null Pointer
+Line 582: Error: Null Pointer
+Line 601: Error: Null Pointer
+Line 620: Error: Null Pointer
+Line 638: Error: Null Pointer
+Line 657: Error: Null Pointer
+Line 676: Error: Null Pointer
+Line 736: Error: Null Pointer
+Line 755: Error: Null Pointer
+Line 774: Error: Null Pointer
+Line 793: Error: Null Pointer
+Line 817: Error: Null Pointer
+Line 834: NumOfImsCall is changed: %d -> %d
+Line 857: Error: Null Pointer
+Line 861: ns_Handle_Imscc_SrvccStatusInd Srvcc_Ho_Status =%d
+Line 878: Error: Null Pointer
+Line 882: ns_Handle_Imscc_NsImsRsrvccRtpMediaStartInd ChannelId=%d
+Line 891: CcSsSAP_Handle_SrvccStatusReq: SrvccStatus=%d, HoType=%d
+Line 904: Error: Null Pointer
+Line 934: Error: Null Pointer
+Line 965: Error: Null Pointer
+Line 991: Error: Null Pointer
+Line 1018: Error: Null Pointer
+Line 1046: Error: Null Pointer
+Line 1075: Error: Null Pointer
+Line 1102: Error: Null Pointer
+Line 1119: Error: Null Pointer
+Line 1140: Error: Null Pointer
+Line 1160: Error: Null Pointer
+Line 1180: Error: Null Pointer
+Line 1201: Error: Null Pointer
+Line 1205: ns_Handle_ns_NsImsccTuneAwaySetReq isEnabled =%d, mtPagingStatus=%d
+Line 1225: Error: Null Pointer
+Line 1229: ns_Handle_Imscc_TuneAwaySetRsp Result =%d
+Line 1246: Error: Null Pointer
+Line 1256: Tx IMSCC_SIGNAL_QUALITY_IND(%d/%d/%d)

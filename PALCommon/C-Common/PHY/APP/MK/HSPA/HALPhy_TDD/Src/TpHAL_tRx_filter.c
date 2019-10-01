@@ -1,0 +1,11 @@
+Line 120: [TpHAL_tRxf_AgcRegSet] - [SbfCnt=%4d][agcMode=%d]
+Line 173: [RFCTRL][PRX] RegVal_Update [SbfCnt=%4d][slotIdx=%d][valueOut=%d][dBPower=%d][dc=%d][preSrrc=%d][postSrrc=%d]
+Line 181: [RFCTRL][PRX] RegVal_Update [SbfCnt=%4d][slotIdx=%d][analogGain=%d][digitalGain=%d][hs_valueOut=%d]
+Line 189: [RFCTRL][DRX] RegVal_Update [SbfCnt=%4d][slotIdx=%d][valueOut=%d][dBPower=%d][dc=%d][preSrrc=%d][postSrrc=%d]
+Line 197: [RFCTRL][DRX] RegVal_Update [SbfCnt=%4d][slotIdx=%d][analogGain=%d][digitalGain=%d][hs_valueOut=%d]
+Line 253: [RFCTRL] SPI FIFO not Cleared status_flag:%d
+Line 259: [TpHAL_tRxf_Write_SWSpi] - [SbfCnt=%4d][spi_word=0x%x]
+Line 302: [TpHAL_CTRL] TpHAL_tRxf_Burst_SPI_RegSet - spiword_num[0x%x]
+Line 397: [TpHAL_CTRL] TpHAL_tRxf_FEM_MIPI_Set - bandInfo[%d], prx_word_num[%d]
+Line 474: [RFCTRL] SetRfUpdateMode(%d): activeRat[%08X],updateMode[%08X],genMask[%08X],word[%08X]
+Line 511: FracNPLL Ctrl : [SbfCnt=%4d] [rxf_mixerReg=0x%x] [mpll_valueReg=0x%x] [SEL_DSM_UPDT_SRC=0x%x] [SEL_MCW_SYNC_SRC=0x%x]

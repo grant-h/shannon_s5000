@@ -1,0 +1,7 @@
+Line 112: Event 2A (MID%i)
+Line 115: Event 2B (MID%i)
+Line 118: Event 2C (MID%i)
+Line 121: Event 2D (MID%i)
+Line 124: Event 2E (MID%i)
+Line 127: Event 2F (MID%i)
+Line 130: Unknown Event (MID%i)
