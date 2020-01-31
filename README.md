@@ -1,7 +1,6 @@
 # Shannnon S5000 Skeleton
 A source-code directory skeleton for the Shannon baseband. Extracted from over 150K debugging messages in the baseband itself.
 Files contain the debugging messages themselves and a line number, but **no actual compilable source code is provided**.
-
 For research purposes only.
 
 ## Generation
@@ -9,7 +8,15 @@ Debugging info extracted from GHIDRA using the script [ShannonTraceEntry.py](htt
 Tree was generated with some custom scripts to parse the dumped entries.
 
 ## Directory Tree
-The baseband is extremely complex with 932 directories and 2,775 files. Here is a `tree` view of the directories (GitHub rendering size may be reached). Hosting these strings on GitHub has the benefit of making all Shannon debugging information be indexed by Google/GitHub.
+The baseband is extremely complex with at least 932 directories and 2,775 files.
+The lines of source code in the baseband is at least 4,446,638 (!), which I estimated using this one-liner:
+
+```
+find * -type f -exec tail -1 {} \; | grep Line | awk '{ print $2 }' | cut -d: -f 1 | awk '{s+=$1} END {print s}'
+```
+
+Here is a `tree` view of the directories (GitHub's markdown rendering size may be reached).
+Hosting these strings on GitHub has the benefit of allowing them to be indexed by GitHub and Google.
 
 <pre>
 ├── <a href="https://github.com/grant-h/shannon_s5000/blob/master/ABOX/">ABOX</a>
